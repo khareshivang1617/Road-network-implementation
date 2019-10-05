@@ -1,0 +1,8 @@
+To run the code use following commands on terminal:
+
+1. make
+2. ./sample
+
+After running the code successfully write the following command:
+
+1. make clean
